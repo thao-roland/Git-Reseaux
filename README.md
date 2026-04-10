@@ -1,6 +1,6 @@
 # Portfolio de Rattrapage - Thao
 
-Ce dépôt centralise l'ensemble de mes travaux de développement réalisés cette année, ainsi que mon projet final d'automatisation pour le sport.
+Ce dépôt centralise l'ensemble de mes travaux de développement réalisés, ainsi que mon projet final d'automatisation pour le sport.
 
 ---
 
